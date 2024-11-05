@@ -1,0 +1,2 @@
+# OpenCV
+Apprendimento libreria OpenCV
